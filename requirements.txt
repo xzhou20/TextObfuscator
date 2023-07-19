@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+evaluate
+accelerate
+seqeval
+scikit-learn
+matplotlib
+rouge-score
+scipy
